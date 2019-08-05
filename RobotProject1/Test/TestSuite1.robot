@@ -66,6 +66,10 @@ SampleLoginTest
     Log    TestCompleted
     Log    This test was executed by %{username} on %{os}      
     
+
+MySampletest
+    Log    TestGit
+    
 *** Variables ***
 
 
